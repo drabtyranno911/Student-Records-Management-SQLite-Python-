@@ -1,8 +1,5 @@
 # Student-Records-Management-SQLite-Python-
 A simple command-line program to **manage student records** using Python and SQLite.
-# Student Records Management (SQLite + Python)
-
-A simple command-line program to **manage student records** using Python and SQLite.
 
 ## Features
 - Add a student (with roll number, name, grade, and marks)
