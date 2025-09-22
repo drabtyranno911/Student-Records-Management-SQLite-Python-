@@ -1,4 +1,4 @@
-# Student-Records-Management-SQLite-Python-
+# Student-Records-Management-SQLite-Python- (sqlite3)
 A simple command-line program to **manage student records** using Python and SQLite.
 
 ## Features
